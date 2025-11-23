@@ -1,0 +1,7 @@
+var searchData=
+[
+  ['vector2d_0',['Vector2D',['../struct_vector2_d.html#a58e25a5df428d4121f4a691f995011bb',1,'Vector2D::Vector2D() noexcept'],['../struct_vector2_d.html#a184ba642161673074b9d94f77f30cd2b',1,'Vector2D::Vector2D(const float InX, const float InY) noexcept'],['../struct_vector2_d.html#aa5fc2953f62eb86aaabb0463745bb2ed',1,'Vector2D::Vector2D(const std::uint32_t InX, const std::uint32_t InY) noexcept'],['../struct_vector2_d.html#a32977d3d80c09405e678c98b7d384dfb',1,'Vector2D::Vector2D(const int InX, const int InY) noexcept']]],
+  ['vector3d_1',['Vector3D',['../struct_vector3_d.html#a0b11a8d75da427b27443d8a94d0d296c',1,'Vector3D::Vector3D()'],['../struct_vector3_d.html#ac2820c0d93010c947b2ba9237dea247d',1,'Vector3D::Vector3D(float InX, float InY, float InZ)'],['../struct_vector3_d.html#a8d44f835aeae33cc1ac31a4fcf957efb',1,'Vector3D::Vector3D(const Vector3D &amp;CopyVec)']]],
+  ['vertex_2',['Vertex',['../struct_vertex.html#abb39d1019b1f4922d7a432e5b31683bc',1,'Vertex::Vertex(const Vector3D &amp;pos, const Vector3D &amp;norm, const Vector2D &amp;tex, const Vector3D &amp;col)'],['../struct_vertex.html#acceb4e6bc7c3f599135c768e8a8a17fc',1,'Vertex::Vertex(const Vector3D &amp;pos, const Vector3D &amp;col)'],['../struct_vertex.html#ae2152b82b92f1522812a1e2bb8c32ba5',1,'Vertex::Vertex()=default']]],
+  ['vkcmdsetvertexinputext_3',['vkCmdSetVertexInputEXT',['../_data_buffers_vulkan_8h.html#a72325d0c172b0e24dbc64a3615d9deaa',1,'DataBuffersVulkan.h']]]
+];
