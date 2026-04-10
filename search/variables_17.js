@@ -1,5 +1,4 @@
 var searchData=
 [
-  ['z_0',['Z',['../struct_vector3_d.html#acb4a5822ce838ad2886e6068f6fa0d19',1,'Vector3D']]],
-  ['zero_1',['Zero',['../struct_vector2_d.html#a0a4e1068073af3c9b299acbeca4cd011',1,'Vector2D::Zero'],['../struct_vector3_d.html#a3cc77248456d29b427e846e050f33d21',1,'Vector3D::Zero']]]
+  ['x_0',['X',['../struct_vector2_d.html#ad5053de07ddfbb1d38b55fce7f271ff5',1,'Vector2D::X'],['../struct_vector3_d.html#a5c37b3cde8f692696d7988047b39afcc',1,'Vector3D::X'],['../struct_vector4_d.html#af40704ce11d95dd840071e31a8db8242',1,'Vector4D::X']]]
 ];
